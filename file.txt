@@ -1,0 +1,6 @@
+-rwxrwx--- 1 root vboxsf 45203 Nov 10 15:49 lex.yy.c
+-rwxrwx--- 1 root vboxsf 44624 Nov 10 15:49 lex.yy.o
+-rwxrwx--- 1 root vboxsf  2685 Oct 30 21:32 shell.y
+-rwxrwx--- 1 root vboxsf 47327 Nov 10 15:49 y.tab.c
+-rwxrwx--- 1 root vboxsf  3282 Nov 10 15:49 y.tab.h
+-rwxrwx--- 1 root vboxsf 29352 Nov 10 15:49 y.tab.o
